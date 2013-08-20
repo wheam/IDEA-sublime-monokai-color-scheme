@@ -6,3 +6,5 @@ mac 修改配色方法 ： 复制配色文件到user/your-user-name/Library/Pref
 然后重新打开程序，在Prefences - Editors - Color & Fonts 下选择对应配色文件即可。
 
 ps . 我下载了color IDE这个插件，效果是我的projects工具栏会自动适应配色背景色，这样更统一更大方更美观 
+
+![image](https://github.com/wheam/IDEA-sublime-monokai-color-scheme/blob/master/screenshot.png?raw=true)
